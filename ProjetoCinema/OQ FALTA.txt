@@ -1,0 +1,5 @@
+* Ajeitas as condições
+* Administrador - Troca de senha
+* Administrador - Zerar o programa
+* ENUM
+*

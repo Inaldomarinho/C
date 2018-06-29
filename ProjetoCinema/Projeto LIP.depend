@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1495759917 source:c:\users\gabriel\documents\projeto lip\projeto lip\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+
+1497187458 source:c:\users\inald\desktop\projeto lip\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<windows.h>
+
+1496149328 source:c:\users\user16\desktop\projeto lip\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<windows.h>
+
+1496341992 source:c:\users\lab207\desktop\projeto lip\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<windows.h>
+
